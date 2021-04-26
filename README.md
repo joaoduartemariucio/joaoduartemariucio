@@ -5,13 +5,12 @@
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5514991459179&text=Olá!)](https://api.whatsapp.com/send?phone=5514991459179&text=Olá!)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-BF008C?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/joaovitorduartemariucio)](https://www.instagram.com/joaovitorduartemariucio) 
 
-### Hi there 👋
+### Olá 👋
 
-About me:
+Sobre mim:
 
-- I am currently working;
-- Currently working with Mobile iOS Development;
-- I am looking to collaborate in helping new developers with simple and commonly used implementations;
-
-- 💬 Ask me about Swift, JavaScript, Firebase;
-- 📫 How to reach me: joaovitorduartemariucio@gmail.com.
+- Atualmente estou trabalhando na empresa iConnect System do Brasil;
+- Trabalho com Desenvolvimento Mobile iOS nativo;
+- Sou responsavel por projetos da empresa e formo novos coolaboradores iOS;
+- 💬 Eu posso te ajudar em Swift, JavaScript e implementações com o Firebase;
+- 📫 Como entrar em contato comigo: joaovitorduartemariucio@gmail.com.
