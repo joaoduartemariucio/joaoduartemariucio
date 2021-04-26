@@ -9,6 +9,10 @@
 
 Sobre mim:
 
+Sou João, desenvolvedor iOS a 4 anos meus sonhos e desejos de crescer são imensos e cada projeto novo tento inovar e criar soluções rápidas e eficazes.
+
+Algumas das minhas funções e habilidades:
+
 - Atualmente estou trabalhando na empresa iConnect System do Brasil;
 - Trabalho com Desenvolvimento Mobile iOS nativo;
 - Sou responsavel por projetos da empresa e formo novos coolaboradores iOS;
