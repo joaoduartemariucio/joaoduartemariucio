@@ -9,7 +9,7 @@
 
 Sobre mim:
 
-Sou João, desenvolvedor iOS a 4 anos meus sonhos e desejos de crescer são imensos e cada projeto novo tento inovar e criar soluções rápidas e eficazes.
+Sou João, desenvolvedor iOS a 4 anos e meio meus sonhos e desejos de crescer são imensos e cada projeto novo tento inovar e criar soluções rápidas e eficazes.
 
 Algumas das minhas funções e habilidades:
 
