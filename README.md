@@ -9,11 +9,11 @@
 
 Sobre mim:
 
-Sou João, desenvolvedor iOS a 4 anos e 6 meses meus sonhos e desejos de crescer são imensos e cada projeto novo tento inovar e criar soluções rápidas e eficazes.
+Sou João, desenvolvedor iOS a 4 anos e 7 meses meus sonhos e desejos de crescer são imensos e cada projeto novo tento inovar e criar soluções rápidas e eficazes. Consigo me adaptar com facilidade a contextos e a projetos.
 
 Algumas das minhas funções e habilidades:
 
 - Atualmente estou trabalhando na empresa Mesa Mobile Thinking;
-- Trabalho como Desenvolvedor iOS Pleno;
+- Trabalho como Desenvolvedor iOS Senior;
 - 💬 Eu posso te ajudar em Swift, JavaScript e implementações com o Firebase;
 - 📫 Como entrar em contato comigo: joaovitorduartemariucio@gmail.com.
