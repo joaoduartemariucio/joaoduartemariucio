@@ -5,13 +5,20 @@
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5514991459179&text=Olá!)](https://api.whatsapp.com/send?phone=5514991459179&text=Olá!)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-BF008C?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/joaovitorduartemariucio)](https://www.instagram.com/joaovitorduartemariucio) 
 
-### Olá 👋
+### Olá eu sou João(Joãozinho) 👋
+
+Desenvolvedor iOS a 4 anos e 7 meses, sou um profissional dedicato e proativo, os meus sonhos de crescer são imensos, em cada projeto que entro tento sempre inovar e apresentar o melhor do meu trabalho, foco em criar soluções rápidas(Swift) e eficazes. Consigo me adaptar com facilidade a contextos e projetos.
+
+No decorer da minha carreira já usei várias arquiteturas tal como MVC, MVVM, Clean Arquiteture, VIP.
+
+Tipos de apps que já trabalhei:
+- Segurança residencial - com câmeras RTSP, Paineis de segurança, Video Porteiro etc... 
+- Automação com dispositivos de IoT
+- Finaceiro - Banco, Carteira digital e investimentos 
+
+Extras: Já trabalhei em projetos com Design System e Modularizados com Cocoapods
 
 Sobre mim:
-
-Sou João, desenvolvedor iOS a 4 anos e 7 meses meus sonhos e desejos de crescer são imensos e cada projeto novo tento inovar e criar soluções rápidas e eficazes. Consigo me adaptar com facilidade a contextos e a projetos.
-
-Algumas das minhas funções e habilidades:
 
 - Atualmente estou trabalhando na empresa Mesa Mobile Thinking;
 - Trabalho como Desenvolvedor iOS Senior;
