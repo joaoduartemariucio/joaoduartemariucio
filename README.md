@@ -24,3 +24,5 @@ Sobre mim:
 - Trabalho como Desenvolvedor iOS Senior;
 - 💬 Eu posso te ajudar em Swift, JavaScript e implementações com o Firebase;
 - 📫 Como entrar em contato comigo: joaovitorduartemariucio@gmail.com.
+
+![](github-contribution-grid-snake.svg)
