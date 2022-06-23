@@ -7,7 +7,7 @@
 
 ### Hello,
 
-I am João(Joãozinho) iOS developer for 6 years, I am a dedicated and proactive professional, my dreams of growing are immense, in each project I enter I always try to innovate and present the best of my work. I know Object-C, but the main focus is on Swift, I can create layouts in Storyboard, View code and SwiftUI. I can adapt easily to contexts and projects.
+I'm João (Joãozinho) iOS developer for 6 years, I'm a dedicated and proactive professional, my dreams for growth are huge, so I always seek to enter the best I can do always looking to innovate, In this dev time I learned Object-C, but my main focus is Swift, in the layouts part I really like to use View Code, but I know Storyboard and SwiftUI too. I always adapt easily to contexts and projects.
 
 During my career I have used several architectures such as MVC, MVVM, Clean Arquiteture, VIPER.
 
@@ -25,7 +25,7 @@ About me:
 - 💬 I can help you in Swift, JavaScript and implementations with Firebase;
 - 📫 How to contact me: joaovitorduartemariucio@gmail.com.
 
-In my day to day I usually use: 
+In everyday life my common use is:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaoduartemariucio&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
