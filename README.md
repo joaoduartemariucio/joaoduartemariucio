@@ -5,22 +5,27 @@
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5514991459179&text=Olá!)](https://api.whatsapp.com/send?phone=5514991459179&text=Olá!)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-BF008C?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/joaovitorduartemariucio)](https://www.instagram.com/joaovitorduartemariucio) 
 
-### Olá eu sou João(Joãozinho) 👋
+### Hello,
 
-Desenvolvedor iOS a 4 anos e 7 meses, sou um profissional dedicato e proativo, os meus sonhos de crescer são imensos, em cada projeto que entro tento sempre inovar e apresentar o melhor do meu trabalho, foco em criar soluções rápidas(Swift) e eficazes. Consigo me adaptar com facilidade a contextos e projetos.
+I am João(Joãozinho) iOS developer for 6 years, I am a dedicated and proactive professional, my dreams of growing are immense, in each project I enter I always try to innovate and present the best of my work. I know Object-C, but the main focus is on Swift, I can create layouts in Storyboard, View code and SwiftUI. I can adapt easily to contexts and projects.
 
-No decorer da minha carreira já usei várias arquiteturas tal como MVC, MVVM, Clean Arquiteture, VIP.
+During my career I have used several architectures such as MVC, MVVM, Clean Arquiteture, VIPER.
 
-Tipos de apps que já trabalhei:
-- Segurança residencial - com câmeras RTSP, Paineis de segurança, Video Porteiro etc... 
-- Automação com dispositivos de IoT
-- Finaceiro - Banco, Carteira digital e investimentos 
+Types of apps I have worked with:
+- Home security - with RTSP cameras, Security Panels, Video Doorman etc... 
+- Automation with IoT devices
+- Financial - Banking, digital wallet and investments 
 
-Extras: Já trabalhei em projetos com Design System e Modularizados com Cocoapods
+I have worked on projects with Design System and Modularized(Cocoadpods, Swifit Package Manager)
 
-Sobre mim:
+About me:
 
-- Atualmente estou trabalhando na empresa Mesa Mobile Thinking;
-- Trabalho como Desenvolvedor iOS Senior;
-- 💬 Eu posso te ajudar em Swift, JavaScript e implementações com o Firebase;
-- 📫 Como entrar em contato comigo: joaovitorduartemariucio@gmail.com.
+- I am currently working at Mesa Mobile Thinking company;
+- I work as a Senior iOS Developer;
+- 💬 I can help you in Swift, JavaScript and implementations with Firebase;
+- 📫 How to contact me: joaovitorduartemariucio@gmail.com.
+
+In my day to day I usually use: 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaoduartemariucio&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
