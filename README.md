@@ -11,12 +11,12 @@ I'm João (Joãozinho) iOS developer for 6 years, I'm a dedicated and proactive 
 
 During my career I have used several architectures such as MVC, MVVM, Clean Arquiteture, VIPER.
 
-Types of apps I have worked with:
+Types of applications worked:
 - Home security - with RTSP cameras, Security Panels, Video Doorman etc... 
 - Automation with IoT devices
 - Financial - Banking, digital wallet and investments 
 
-I have worked on projects with Design System and Modularized(Cocoadpods, Swifit Package Manager)
+I have worked on projects with Design System and Modularized using Cocoadpods or Swifit Package Manager
 
 About me:
 
