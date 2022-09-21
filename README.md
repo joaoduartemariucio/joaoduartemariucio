@@ -29,3 +29,6 @@ In everyday life my common use is:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaoduartemariucio&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+My works:
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=joaoduartemariucio&theme=calm&hide_border=true&border_radius=8&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
