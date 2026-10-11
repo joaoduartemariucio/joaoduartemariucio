@@ -7,7 +7,7 @@
 
 ### Hello,
 
-I'm João (Joãozinho) iOS developer for 6 years, I'm a dedicated and proactive professional, my dreams for growth are huge, so I always seek to enter the best I can do always looking to innovate, In this dev time I learned Object-C, but my main focus is Swift, in the layouts part I really like to use View Code, but I know Storyboard and SwiftUI too. I always adapt easily to contexts and projects.
+I'm João iOS developer for 9 years, I'm a dedicated and proactive professional, my dreams for growth are huge, so I always seek to enter the best I can do always looking to innovate, In this dev time I learned Object-C, but my main focus is Swift, in the layouts part I really like to use View Code, but I know Storyboard and SwiftUI too. I always adapt easily to contexts and projects.
 
 During my career I have used several architectures such as MVC, MVVM, Clean Arquiteture, VIPER.
 
