@@ -1,6 +1,6 @@
 # 👨‍💻 João Vitor Duarte Mariucio
 
-**Senior iOS Engineer** · Swift · SwiftUI · UIKit (View Code) · also React Native & Flutter
+**Senior Mobile Software Engineer** · iOS specialist (Swift · SwiftUI · UIKit) · also Kotlin, React Native & Flutter
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaovitorduartemariucio)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=gmail&logoColor=white)](mailto:joaovitorduartemariucio@gmail.com)
@@ -9,41 +9,43 @@
 
 ## About me
 
-Mobile engineer since 2017, focused on iOS. Swift is my main language, with a background in Objective-C. I build UI with View Code and SwiftUI, and I work with React Native and Flutter when the product calls for it. Lately I've also been building web products with React and TypeScript.
+Mobile engineer since 2017, focused on iOS. I've shipped apps used by millions (banking, investments, loyalty, retail and e-commerce), owned the native layer of React Native apps, and led mobile teams end to end, from architecture to App Store release. Today I'm aiming at Senior / Tech Lead roles where I can drive architecture, quality and engineering efficiency.
 
-- 🏢 Senior iOS Engineer at **FCamara**, working on the **Casas Bahia** app (product detail / PDP module)
-- 🏗️ Architectures: MVVM, VIPER, Clean Architecture, MVC
-- 📦 Modularized apps and Design Systems with Swift Package Manager and CocoaPods
-- 🧪 Swift Testing, XCTest, SwiftLint and CI
+- 🏢 Senior iOS Engineer at **FCamara**, working on the **Casas Bahia** app: the product detail (PDP) module, one of the highest-traffic flows, with 1M+ daily visits
+- 🏗️ Clean Architecture, SOLID, MVVM, VIPER and modularized codebases (Swift Package Manager, CocoaPods)
+- 🎨 Design Systems built from scratch: packages, tokens and base components
+- 💳 Payments: Apple Pay, Google Pay, Click to Pay, NuPay, Mercado Pago
+- 🔌 React Native Turbo Modules and native bridges (Swift and Kotlin)
+- 🧪 XCTest, Swift Testing, SonarQube quality gates, SwiftLint, CI/CD with Fastlane
+- 🤖 AI-assisted engineering: coding agents and harnesses (Claude, Codex, Copilot) that follow the project's code standards
+- 🎓 Systems Analysis and Development at FATEC Garça
 - 📍 Garça-SP, Brazil
 
-## Where I've worked
+## Experience
 
-- 🛒 **FCamara / Casas Bahia**: large-scale e-commerce
-- 🏦 **BTG Pactual** and **Zro Bank**: banking, digital wallet and investments
-- ⛽ **Premmia (Vibra Energia)**: loyalty and rewards
-- 👟 **TF Sports (Track&Field)**: retail
-- 🔐 **Home security & IoT**: RTSP camera streaming, security panels, video doorbells, device automation
+| Where | Product | What I did |
+|---|---|---|
+| **FCamara** · 2026 – now | 🛒 Casas Bahia | PDP module in Swift/SwiftUI on Clean Architecture, SPM modules, XCTest + SonarQube, new Design System components |
+| **Mesa Mobile Thinking** · 2021 – 2026 | ⛽ Premmia (Vibra Energia) | iOS and Android focal point on a 5M+ downloads, 4.8★ app; Turbo Modules, bridges and payment integrations; created the app's Design System |
+| | 👟 TF Sports (Track&Field) | Design System, SPM modularization, Alamofire network layer, Mercado Pago, memory and battery optimization |
+| | 🔋 Moura Fácil (Moura) | Flutter architecture, code standards and team mentoring |
+| | 🏦 BTG Pactual | Foreign exchange, investment funds and investment marketplace; CocoaPods modules |
+| | 🌳 iScape | Outdoor design app with 2D/3D and augmented reality |
+| | 💱 Zro Bank | Currency exchange between BRL, USD, EUR and crypto |
+| **iConnect System** · 2020 – 2021 | 📱 Mobile ecosystem | Mobile Tech Lead: architecture, development, App Store / Google Play releases, monitoring |
+| **Fulltime** · 2017 – 2020 | 🔐 FullArm (home security) | Native app end to end; Fastlane CI/CD, TestFlight, Crashlytics with 99%+ crash-free; led a team of 3 apps |
 
 ## Projects
 
-**In progress**
-
-- 🚗 **Kmais** 🚧: open source iOS app for car and motorcycle maintenance (fuel log, consumption, cost per km, service reminders)
-  `Swift` `SwiftUI` `SwiftData` `MVVM + Repository` `Swift Testing` `SwiftLint`
-- 🏋️ **FitLab**: web management platform for gyms, including access control
-  `React 19` `TypeScript` `Vite` `Tailwind CSS v4` `TanStack Router` `TanStack Query` `Zustand` `React Hook Form` `Zod` `Vitest`
-- 📅 **Orariq**: web scheduling platform with automated email reminders
-  `Resend` `Cron jobs`
-
-**Open source**
-
-- [**BottomSheet**](https://github.com/joaoduartemariucio/BottomSheet): BottomSheet built programmatically in Swift 5
-- [**mvvm-combine-swift**](https://github.com/joaoduartemariucio/mvvm-combine-swift): MVVM with Combine
-- [**StopHoldingCycles**](https://github.com/joaoduartemariucio/StopHoldingCycles): retain cycles and memory management in Swift
-- [**CommonUtilities**](https://github.com/joaoduartemariucio/CommonUtilities): reusable Swift utilities
-- [**cordova-appgroups-dates**](https://github.com/joaoduartemariucio/cordova-appgroups-dates): data sharing between a hybrid app and native iOS via App Groups
-- [**cordova-plugin-streaming-native**](https://github.com/joaoduartemariucio/cordova-plugin-streaming-native): Cordova plugin for streaming with native device features
+- 🚗 **Kmais**: car and motorcycle maintenance tracker (fuel log, real consumption, anomaly detection, cost per km, service forecasts and reminders). The same product, domain rules, tests, AI agents and CI gates, built natively on every major stack:
+  - [**kmais-app-ios**](https://github.com/joaoduartemariucio/kmais-app-ios) `Swift` `SwiftUI` `SwiftData` `Swift Concurrency` `Swift Testing`
+  - [**kmais-app-android**](https://github.com/joaoduartemariucio/kmais-app-android) `Kotlin` `Jetpack Compose` `Room` `Coroutines`
+  - [**kmais-app-react-native**](https://github.com/joaoduartemariucio/kmais-app-react-native) `TypeScript` `Expo` `MobX` `Expo Router` `Jest`
+  - [**kmais-app-flutter**](https://github.com/joaoduartemariucio/kmais-app-flutter) `Dart` `Flutter` `BLoC` `go_router` `sqflite`
+- 🎨 [**jvdm-ui**](https://github.com/joaoduartemariucio/jvdm-ui): React design system published on [npm](https://www.npmjs.com/package/jvdm-ui), where the theme is a JSON file and the rules are enforced by lint
+  `React 19` `TypeScript` `Tailwind CSS v4` `Design tokens`
+- 🖼️ [**mosaic-images-python**](https://github.com/joaoduartemariucio/mosaic-images-python): builds a single PNG comparing screenshots across environments and platforms, used as test evidence
+  `Python` `Pillow`
 
 ## Tech stack
 
@@ -51,30 +53,36 @@ Mobile engineer since 2017, focused on iOS. Swift is my main language, with a ba
 
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-0D96F6?style=flat-square&logo=swift&logoColor=white)
+![UIKit](https://img.shields.io/badge/UIKit-2396F3?style=flat-square&logo=apple&logoColor=white)
 ![Objective-C](https://img.shields.io/badge/Objective--C-438EFF?style=flat-square&logo=apple&logoColor=white)
-![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
-**Web**
+**Web & APIs**
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![TanStack](https://img.shields.io/badge/TanStack-FF4154?style=flat-square&logo=reactquery&logoColor=white)
-![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white)
-![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-**Tooling**
+**Quality & delivery**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white)
+![Fastlane](https://img.shields.io/badge/Fastlane-00F200?style=flat-square&logo=fastlane&logoColor=black)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white)
 ![SwiftLint](https://img.shields.io/badge/SwiftLint-F05138?style=flat-square&logo=swift&logoColor=white)
-![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white)
-![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+**AI**
+
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white)
+![OpenAI Codex](https://img.shields.io/badge/Codex-412991?style=flat-square&logo=openai&logoColor=white)
 
 ## 📫 Contact
 
-joaovitorduartemariucio@gmail.com · open to freelance
+joaovitorduartemariucio@gmail.com · open to Senior / Tech Lead roles and freelance
